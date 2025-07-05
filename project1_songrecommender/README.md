@@ -18,7 +18,7 @@ This is a simple content-based recommendation system built using TF-IDF and cosi
 
 The song lyrics dataset used in this project was downloaded from **Kaggle** using the Kaggle API.
 
-- 📦 Dataset: [Song Lyrics Dataset](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-160k-tracks)  
+- 📦 Dataset: [Song Lyrics Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)  
 
 
 ### 🔽 How to Download via Kaggle API (on Colab)
