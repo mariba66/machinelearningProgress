@@ -18,9 +18,9 @@ This repo is a collection of:
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🎵 Song Recommender | A content-based song recommendation system using TF-IDF + cosine similarity | [View Project](./songrecommendation.ipynb/README.md) |
+| 🎵 Song Recommender | A content-based song recommendation system using TF-IDF + cosine similarity | [View Project](./songsrecommendation.ipynb/README.md) |
 | 😊 Sentiment Analysis | Classifying user sentiments from text (Twitter / status vibes) | *Coming soon...* |
-| 📧 Email Classifier | Sorting spam and non-spam emails with Naive Bayes | *Coming soon...* |
+| 📧 Email Classifier | Sorting spam and non-spam emails with Naive Bayes | *Coming soon...* |s
 | 🔍 Anomaly Detection | Detecting unusual behavior in sensor or user activity data | *Coming soon...* |
 
 ---
